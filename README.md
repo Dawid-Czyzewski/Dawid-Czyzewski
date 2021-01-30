@@ -38,4 +38,8 @@
 <a title="Windows">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
 </a>
+</a>
+<a title="git">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+</a>
 </div>
