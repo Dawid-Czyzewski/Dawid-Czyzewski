@@ -3,6 +3,7 @@
 <!--
 **Dawid-Czyzewski/Dawid-Czyzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawid-Czyzewski&count_private=true&show_icons=true&theme=dracula" />
 ## ⚔️ Known / Used
 <div>
 <a title="PHP">
