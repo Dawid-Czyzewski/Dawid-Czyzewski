@@ -35,4 +35,7 @@
  <a title="GitHub">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
 </a>
+<a title="Windows">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
+</a>
 </div>
