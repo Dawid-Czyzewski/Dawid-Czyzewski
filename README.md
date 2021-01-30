@@ -21,4 +21,15 @@
     <a title="Java">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
 </a>
+</a>
+    </a>
+    <a title="HTML">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+</a>
+ <a title="CSS">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+</a>
+ <a title="Javascript">
+    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+</a>
 </div>
