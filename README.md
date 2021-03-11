@@ -1,10 +1,15 @@
-### Hi there 👋, I'm Dawid
+# <p align="center">Hi there 👋, I'm Dawid</p>
 
 <!--
 **Dawid-Czyzewski/Dawid-Czyzewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h3 align="center"> 💻 Full-Stack Developer 💻</h3>
+<pre></pre>
 
-## ⚔️ Known / Used
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dawid-Czyzewski" alt="visitors" />
+</p>
+# <p align="center">⚔️ Known & Used ⚔️</p>
 
 <div>
 <a title="PHP">
