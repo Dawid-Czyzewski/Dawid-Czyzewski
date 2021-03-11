@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dawid-Czyzewski" alt="visitors" />
 </p>
-# <p align="center">⚔️ Known & Used ⚔️</p>
+ <p align="center">⚔️ Known & Used ⚔️</p>
 
 <div>
 <a title="PHP">
