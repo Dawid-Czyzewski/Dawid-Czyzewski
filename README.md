@@ -48,4 +48,20 @@
 <a title="C++">
     <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 </a>
+<br>
+
+<pre></pre><br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdriksOwy&column=7&theme=onedark" width="1200px">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawid-Czyzewski&count_private=true&show_icons=true&theme=tokyonight" width="450px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawid-Czyzewski&layout=compact&theme=tokyonight" width="350px" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawid-Czyzewski&theme=tokyonight" width="550px" />
+</p>
+<br>
+
 </div>
