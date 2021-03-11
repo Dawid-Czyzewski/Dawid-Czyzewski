@@ -12,45 +12,46 @@
  <p align="center">⚔️ Known & Used ⚔️</p>
 
 <div>
-<a title="PHP">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
+<p align="center">
+<a href="https://isocpp.org/" title="C++">
+  <img width="55" src="./assets/cpp.png" alt="C++">
 </a>
-<a title="MYSQL">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+    
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
+  <img width="55" src="./assets/csharp.png" alt="C#">
 </a>
-    <a title="C#">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">
+
+
+<a href="" title="Java">
+  <img width="55" src="./assets/java.png" alt="Java">
 </a>
-    </a>
-    <a title="Java">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Javascript">
+  <img width="55" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
 </a>
+
+<a href="https://www.mysql.com/" title="MySQL">
+  <img width="55" src="./assets/mysql.png" alt="MySQL">
 </a>
-    </a>
-    <a title="HTML">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+  <img width="55" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML">
 </a>
- <a title="CSS">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+  <img width="55" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS">
 </a>
- <a title="Javascript">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+
+<a href="https://code.visualstudio.com/" title="Visual-Studio-Code">
+  <img width="55" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VisualStudio-Code">
 </a>
- <a title="GitHub">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+
+<a href="https://www.microsoft.com/en-US/windows" title="Windows">
+  <img width="55" src="./assets/windows.png" alt="Windows">
 </a>
-<a title="Windows">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">
-</a>
-</a>
-<a title="git">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-</a>
-<a title="VisualStudioCode">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-</a>
-<a title="C++">
-    <img width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+
+<a href="https://github.com/" title="GitHub">
+  <img width="55" src="./assets/github.png" alt="GitHub">
 </a>
 <br>
 
