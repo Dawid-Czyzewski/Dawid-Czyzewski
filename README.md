@@ -60,7 +60,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawid-Czyzewski&layout=compact&theme=tokyonight" width="350px" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawid-Czyzewski&theme=tokyonight" width="550px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dawid_Czyzewski&theme=tokyonight" width="550px" />
 </p>
 <br>
 
