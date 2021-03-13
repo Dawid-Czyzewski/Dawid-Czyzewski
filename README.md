@@ -6,7 +6,8 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Dawid-Czyzewski&theme=onedark">
 </p>
-<p align="center"> Known & Used</p>
+<pre></pre>
+<p align="center">  Known & Used</p>
 
 <p align="center">
   <a href="" title="Node">
@@ -79,3 +80,11 @@
 
 </p>
 <pre></pre>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dawid-Czyzewski&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawid-Czyzewski&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawid-Czyzewski&theme=dark" />
+</p>
