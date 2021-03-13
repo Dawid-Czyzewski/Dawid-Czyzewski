@@ -1,7 +1,12 @@
 ### Hi there 👋
 <pre></pre>
-
-## <center> Known & Used</center>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dawid-Czyzewski" alt="visitors" />
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dawid-Czyzewski&theme=onedark">
+</p>
+<p align="center"> Known & Used</p>
 
 <p align="center">
   <a href="" title="Node">
@@ -73,3 +78,4 @@
  
 
 </p>
+<pre></pre>
