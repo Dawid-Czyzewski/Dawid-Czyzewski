@@ -68,11 +68,6 @@
     <img width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" alt="Terminal">
   </a>
 
-  <a href="https://www.microsoft.com/en-US/windows" title="Windows">
-    <img width="40" src="./assets/windows.png" alt="Windows">
-  </a>
-
-
   <a href="https://www.mysql.com/" title="MySQL">
     <img width="40" src="./assets/mysql.png" alt="MySQL">
   </a>
