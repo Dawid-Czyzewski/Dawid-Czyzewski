@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,Im backend developer
 <pre></pre>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dawid-Czyzewski" alt="visitors" />
